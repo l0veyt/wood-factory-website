@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd57aa05-587e-444d-a214-76d3bf11f552" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/wood-factory-website.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/swipebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/environment.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway-SemiBold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/e6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/g9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/img-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/list-arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/nav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/p6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/t6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/to-top2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/zoom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexisel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.swipebox.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/move-top.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/responsiveslides.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/our business.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/services.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/timbers.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wood-factory-website" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CN</find>
+      <find>jpg</find>
+      <find>网站模板—建材物料_files</find>
+      <find>mobiPlatform</find>
+      <find>wildwood</find>
+      <find>wildWood</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/html/new.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mail.html" />
+        <option value="$PROJECT_DIR$/environment.html" />
+        <option value="$PROJECT_DIR$/our business.html" />
+        <option value="$PROJECT_DIR$/timbers.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="131" />
+    <option name="y" value="164" />
+    <option name="width" value="1610" />
+    <option name="height" value="1131" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wood-factory-website" type="cbb8eebc:String" user="wood-factory-website" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wood-factory-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wood-factory-website" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Develop\Workspace\wood-factory-website" />
+      <recent name="D:\Develop\Workspace\wood-factory-website\js" />
+      <recent name="D:\Develop\Workspace\wood-factory-website\css" />
+      <recent name="D:\Develop\Workspace\wood-factory-website\images" />
+      <recent name="D:\Develop\Workspace\wood-factory-website\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\Workspace\wood-factory-website\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd57aa05-587e-444d-a214-76d3bf11f552" name="Default" comment="" />
+      <created>1517635047832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517635047832</updated>
+      <workItem from="1517635049460" duration="5370000" />
+      <workItem from="1517760959970" duration="924000" />
+      <workItem from="1517761894792" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6629000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13632782" sideWeight="0.497272" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969603" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13632782" sideWeight="0.502728" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/网站模板—建材物料.htm" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAgx7SZzQUonvqC1QMwhgM48AE.jpg" />
+    <entry file="file://$PROJECT_DIR$/html/网站模板—建材物料_files/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAg4Z_azQUomOiU1QIwgAU4rAI!1000x1000.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAg6J_azQUox4nQpwcw7AQ43AI!640x640.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAg7p_azQUohKeZhQMw7AQ43AI!640x640.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAg8Z_azQUolor5hgUw7AQ43AI!640x640.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAg75_azQUokIyNmAQw7AQ43AI!640x640.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/AD0Ix6eCBxACGAAgiYOazQUospPxjAIwogI41gE.jpg" />
+    <entry file="file://$PROJECT_DIR$/html/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/hawkEye.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/video.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/faiFloatPanel_bindEvent.min.js" />
+    <entry file="file://$PROJECT_DIR$/images/carousel.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/jzcusstyle.jsp" />
+    <entry file="file://$PROJECT_DIR$/html/new.html" />
+    <entry file="file://$PROJECT_DIR$/timbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our business.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
